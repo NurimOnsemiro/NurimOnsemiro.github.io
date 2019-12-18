@@ -1,3 +1,5 @@
 remote_theme : mmistakes/minimal-mistakes
 url : "https://NurimOnsemiro.github.io"
 baseurl : ""
+
+theme: jekyll-theme-cayman
